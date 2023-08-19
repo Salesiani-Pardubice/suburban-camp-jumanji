@@ -62,7 +62,7 @@ echo "${GREEN}● Status: PASSWORD HAS BEEN ACCEPTED${NC}"
 echo ""
 echo "File: dir,    Node: Top,     This is the TOP SECRET page for controling AT systems."
 echo "This is the Main controlling menu. This terminal has sudo permissions."
-printf "${RED}
+printf "${YELLOW}
   ____  __ __  ___ ___   ____  ____   ____  ____       ____  ____ 
  |    ||  |  ||   |   | /    ||    \ |    ||    |     /    ||    |
  |__  ||  |  || _   _ ||  o  ||  _  ||__  | |  |     |  o  | |  | 
