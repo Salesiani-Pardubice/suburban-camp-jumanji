@@ -1,6 +1,6 @@
 #!/bin/sh
 
-key="123456789"
+key="298aIf1Q@"
 
 # Colors
 RED='\033[0;31m'
